@@ -44,6 +44,9 @@ Therefore, the validation rules relative to the following CodeList C-Code cannot
 * C67154: LBTEST (Laboratory Test Name)
 * C85491: MICROORG (Microorganism)
 
+## License
+This program is released under [the MIT License](https://opensource.org/licenses/MIT).
+
 ## References
 
 * [CDISC Define-XML](https://www.cdisc.org/standards/foundational/define-xml)
