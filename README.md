@@ -44,9 +44,12 @@ Therefore, the validation rules relative to the following CodeList C-Code cannot
 * C67154: LBTEST (Laboratory Test Name)
 * C85491: MICROORG (Microorganism)
 
+## License
+This program is released under [the MIT License](https://opensource.org/licenses/MIT).
+
 ## References
 
 * [CDISC Define-XML](https://www.cdisc.org/standards/foundational/define-xml)
 * [CDISC Controlled Terminology](https://www.cancer.gov/research/resources/terminology/cdisc)
 * [PMDA Study Data Validation Rules](http://www.pmda.go.jp/english/review-services/reviews/advanced-efforts/0002.html)
-* [SAS 9.4 DS2 Language Reference, Sixth Edition](https://support.sas.com/documentation/cdl/en/ds2ref/68052/HTML/default/viewer.htm)
+* [SAS 9.4 DS2 Language Reference, Sixth Edition](http://support.sas.com/documentation/cdl/en/ds2ref/68052/HTML/default/viewer.htm)
